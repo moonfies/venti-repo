@@ -84,7 +84,7 @@
   ⟢․⁺┆ hh/hb ponies<br>
   ⟢․⁺┆ vivziepop fans/supporters<br>
   ⟢․⁺┆ WSS and dteam supporters<br>
-  ⟢․⁺┆ intra-system romantic relationships *(or don't ment around me)*<br>
+  ⟢․⁺┆ intra-system romantic relationships (or don't ment around me)<br>
   ⟢․⁺┆ systems who force-split introjects 
         </td>
         </details>
