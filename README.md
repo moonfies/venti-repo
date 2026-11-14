@@ -20,8 +20,8 @@
        <br>
        <br>
        please DO NOT COPY NOR INSPO from any of my ponies!<br>
-       many of them are COMISSIONED or GIFTED from other people.<br>
-       they are all original ideas and most of them <br>
+       many of them are COMISSIONED or GIFTED from other <br>
+       people. they are all original ideas and most of them <br>
        are how my ALTERS SEE THEMSELVES
     </tr>
     <table>
