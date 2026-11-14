@@ -29,13 +29,12 @@ image break
   <tbody>
     <tr>
       <td>       
-       ༄  rie / rism + cat-themed prns<br>
-       [prns.cc](https://pronouns.cc/@zep)<br>
+       ༄  rie / rism + cat-themed prns . <a href="https://pronouns.cc/@zep">prns.cc</a><br>
 <br>
 ༄  my loves 〜<br>
-[affy ᰔᩚ](https://github.com/curiouslatte) & mikey ᰔᩚ<br>
+<a href="https://github.com/curiouslatte">affy</a> ᰔᩚ & mikey ᰔᩚ<br>
 ༄  qpps 〜<br>
-[yin ₊˚⊹](https://github.com/odyssial) & [joop ₊˚⊹](https://github.com/dallasriot)
+<a href="https://github.com/odyssial">yin</a> ₊˚⊹ & <a href="https://github.com/dallasriot">joop</a> ₊˚⊹
       </td>
       <td>
        image
