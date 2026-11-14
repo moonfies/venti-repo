@@ -41,7 +41,7 @@ ${\textsf{༄}}$  ${\textsf{\color{#829695}my loves}}$ ${\textsf{〜}}$ <a href=
 ${\textsf{༄}}$  ${\textsf{\color{#829695}qpps}}$ ${\textsf{〜}}$ <a href="https://github.com/odyssial">yin</a> ₊˚⊹ & <a href="https://github.com/dallasriot">joop</a> ₊˚⊹
       </td>
       <td>
-       <img align="center" width="150px" salt="image" src="https://file.garden/ahMHvma4rlrxNi-s/New%20Project%20(1).png">
+       <img align="center" width="125px" salt="image" src="https://file.garden/ahMHvma4rlrxNi-s/New%20Project%20(1).png">
     </tr>
     <table>
     <tr>
