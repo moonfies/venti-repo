@@ -16,7 +16,7 @@
       <td>
        ${\textsf{\color{#829695} venti / v / windswept sekai / windy system}}$<br>
        ${\textsf{\color{#718A95} 22 yrs}}$ ${\textsf{〜}}$ ${\textsf{\color{#80907F} nonbinary + catgender}}$ ${\textsf{〜}}$ ${\textsf{\color{#718A95} audhd}}$<br>
-       ${\textsf{\color{#80907F} osdd sys of 20+ parts}}$ ${\textsf{〜}}$ fictkin + otherkin + therian
+       ${\textsf{\color{#829695} osdd sys of 20+ parts}}$ ${\textsf{〜}}$ ${\textsf{\color{#829695} fictkin + otherkin + therian}}$
        <br>
        <br>
        please DO NOT COPY NOR INSPO from any of my ponies!<br>
