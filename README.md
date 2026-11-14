@@ -1,5 +1,10 @@
+<br>
 <div id="header"align="center">
-hits link
+ 
+   [![Hits](https://hits.sh/github.com/windbornebard.svg?label=wind%20spirits&color=7a8270&labelColor=383c43)](https://hits.sh/github.com/windbornebard/)
+   
+   </p>
+   
 <table>
   <thead>
     <tr>
@@ -7,7 +12,7 @@ hits link
   </thead>
   <tbody>
     <tr>
-      <td><img align="center" width="400px" salt="image" src="https://file.garden/ahMHvma4rlrxNi-s/venti%20img%201.png"></td>
+      <td><img align="center" width="200px" salt="image" src="https://file.garden/ahMHvma4rlrxNi-s/New%20Project.png"></td>
       <td>
        venti / v / windswept sekai / windy system<br>
        22 yrs 〜 nonbinary + catgender 〜 audhd<br>
@@ -20,7 +25,7 @@ hits link
     </tr>
     <table>
     <tr>
-image break
+<img align="center" width="50px" salt="image" src="https://file.garden/ahMHvma4rlrxNi-s/Untitled14_20261114020314%20(1).png">
 <table>
   <thead>
     <tr>
@@ -37,7 +42,7 @@ image break
 <a href="https://github.com/odyssial">yin</a> ₊˚⊹ & <a href="https://github.com/dallasriot">joop</a> ₊˚⊹
       </td>
       <td>
-       image
+       <img align="center" width="200px" salt="image" src="https://file.garden/ahMHvma4rlrxNi-s/New%20Project%20(1).png">
     </tr>
     <table>
     <tr>
@@ -50,19 +55,19 @@ image break
     <tr>
       <td>
       <div align="center"><details>
-          <summary>${\textsf{\color{#e3b2a4}BYI}}$</summary>
+          <summary>${\textsf{\color{#2e3641}BYI}}$</summary>
   meow meow meow
         </td>
         </details>
       <td>
        <div align="center"><details>
-          <summary>${\textsf{\color{#e3b2a4}PLEASE INT}}$</summary>
+          <summary>${\textsf{\color{#2e3641}PLEASE INT}}$</summary>
   meow meow meow
         </td>
         </details>
    <td>
 <div align="center"><details>
-          <summary>${\textsf{\color{#e3b2a4}DNI}}$</summary>
+          <summary>${\textsf{\color{#2e3641}DNI}}$</summary>
   meow meow meow
         </td>
         </details>
