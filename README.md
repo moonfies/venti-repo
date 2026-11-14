@@ -56,19 +56,36 @@
       <td>
       <div align="center"><details>
           <summary>${\textsf{\color{#7a8270}BYI}}$</summary>
-  meow meow meow
+  ⟢․⁺┆ i'm offtab 80% of the time, i may randomly offtab during convos<br>
+  ⟢․⁺┆ i dissociate a lot! i may forget people/interactions<br>
+  ⟢․⁺┆ please don't friend me if you're under 16<br>
+  ⟢․⁺┆ don't use ableist/homophobic slurs around/to me<br>
+  ⟢․⁺┆ don't make weight/eating jokes to/about me<br>
         </td>
         </details>
       <td>
        <div align="center"><details>
           <summary>${\textsf{\color{#7a8270}PLEASE INT}}$</summary>
-  meow meow meow
+  ⟢․⁺┆ mcyt fans!<br>
+  ⟢․⁺┆ fellow adults<br>
+  ⟢․⁺┆ sourcemates<br>
+  ⟢․⁺┆ pjsk fans<br>
+  ⟢․⁺┆ mediamates / fellow fictkins<br>
+  ⟢․⁺┆ fellow therians + otherkins
         </td>
         </details>
    <td>
 <div align="center"><details>
           <summary>${\textsf{\color{#7a8270}DNI}}$</summary>
-  meow meow meow
+  ⟢․⁺┆ basic dni criteria + T.R.A.S.H. + radqueer<br>
+  ⟢․⁺┆ endogenic 'systems' + endogenic believers/supporters<br>
+  ⟢․⁺┆ if you make nsfw jokes on safe server<br>
+  ⟢․⁺┆ homestuck ponies<br>
+  ⟢․⁺┆ hh/hb ponies<br>
+  ⟢․⁺┆ vivziepop fans/supporters<br>
+  ⟢․⁺┆ WSS and dteam supporters<br>
+  ⟢․⁺┆ intra-system romantic relationships *(or don't ment around me)*<br>
+  ⟢․⁺┆ systems who force-split introjects 
         </td>
         </details>
    </td>
