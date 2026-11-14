@@ -61,7 +61,7 @@
         </details>
       <td>
        <div align="center"><details>
-          <summary>${\textsf{\color{#2e3641}PLEASE INT}}$</summary>
+          <summary>${\textsf{\color{#7a8270}PLEASE INT}}$</summary>
   meow meow meow
         </td>
         </details>
