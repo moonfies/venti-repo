@@ -55,7 +55,7 @@
     <tr>
       <td>
       <div align="center"><details>
-          <summary>${\textsf{\color{#2e3641}BYI}}$</summary>
+          <summary>${\textsf{\color{#7a8270}BYI}}$</summary>
   meow meow meow
         </td>
         </details>
@@ -67,7 +67,7 @@
         </details>
    <td>
 <div align="center"><details>
-          <summary>${\textsf{\color{#2e3641}DNI}}$</summary>
+          <summary>${\textsf{\color{#7a8270}DNI}}$</summary>
   meow meow meow
         </td>
         </details>
