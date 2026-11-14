@@ -14,8 +14,8 @@
     <tr>
       <td><img align="center" width="200px" salt="image" src="https://file.garden/ahMHvma4rlrxNi-s/New%20Project.png"></td>
       <td>
-       ${\textsf{\color{#829695} venti / v /}}$ ${\textsf{\color{#718A95}windswept sekai /}}$ ${\textsf{\color{#8C928E}windy system}}$<br>
-       22 yrs 〜 nonbinary + catgender 〜 audhd<br>
+       ${\textsf{\color{#829695} venti / v /}}$${\textsf{\color{#718A95}windswept sekai / windy system}}$<br>
+       ${\textsf{\color{#8C928E} 22 yrs}}$ ${\textsf{〜}}$ ${\textsf{\color{#80907F}<br>
        osdd sys of 20+ parts 〜 fictkin + otherkin + therian
        <br>
        <br>
