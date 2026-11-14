@@ -19,10 +19,10 @@
        ${\textsf{\color{#829695} osdd sys of 20+ parts}}$ ${\textsf{〜}}$ ${\textsf{\color{#829695} fictkin + otherkin + therian}}$
        <br>
        <br>
-       please DO NOT COPY NOR INSPO from any of my ponies!<br>
+       Please DO NOT COPY NOR INSPO from any of my ponies!<br>
        many of them are COMISSIONED or GIFTED from other <br>
-       people. they are all original ideas and most of them <br>
-       are how my ALTERS SEE THEMSELVES
+       people. They are all original ideas and most of them <br>
+       are how my ALTERS SEE THEMSELVES.
     </tr>
     <table>
     <tr>
