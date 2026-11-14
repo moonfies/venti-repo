@@ -35,7 +35,7 @@
   <tbody>
     <tr>
       <td>       
-       ${\textsf{༄}}$ ${\textsf{\color{#80907F}rie / rism + cat-themed prns}}$< . <a href="https://pronouns.cc/@zep">pronouns.cc</a><br>
+       ${\textsf{༄}}$ ${\textsf{\color{#80907F}rie / rism + cat-themed prns}}$ . <a href="https://pronouns.cc/@zep">pronouns.cc</a><br>
 <br>
 ${\textsf{༄}}$  ${\textsf{\color{#829695}my loves}}$ ${\textsf{〜}}$ <a href="https://github.com/curiouslatte">affy</a> ᰔᩚ & ${\textsf{\color{#80907F}mikey}}$ ᰔᩚ<br>
 ${\textsf{༄}}$  ${\textsf{\color{#829695}qpps}}$ ${\textsf{〜}}$ <a href="https://github.com/odyssial">yin</a> ₊˚⊹ & <a href="https://github.com/dallasriot">joop</a> ₊˚⊹
