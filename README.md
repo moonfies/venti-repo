@@ -54,7 +54,7 @@
   <tbody>
     <tr>
       <td>
-      <div align="center"><details>
+      <div align="left"><details>
           <summary>${\textsf{\color{#7a8270}BYI}}$</summary>
   ⟢․⁺┆ i'm offtab 80% of the time, i may randomly offtab during convos<br>
   ⟢․⁺┆ i dissociate a lot! i may forget people/interactions<br>
@@ -64,7 +64,7 @@
         </td>
         </details>
       <td>
-       <div align="center"><details>
+       <div align="left"><details>
           <summary>${\textsf{\color{#7a8270}PLEASE INT}}$</summary>
   ⟢․⁺┆ mcyt fans!<br>
   ⟢․⁺┆ fellow adults<br>
@@ -75,7 +75,7 @@
         </td>
         </details>
    <td>
-<div align="center"><details>
+<div align="left"><details>
           <summary>${\textsf{\color{#7a8270}DNI}}$</summary>
   ⟢․⁺┆ basic dni criteria + T.R.A.S.H. + radqueer<br>
   ⟢․⁺┆ endogenic 'systems' + endogenic believers/supporters<br>
