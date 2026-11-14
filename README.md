@@ -35,12 +35,11 @@
   <tbody>
     <tr>
       <td>       
-       ༄  rie / rism + cat-themed prns . <a href="https://pronouns.cc/@zep">prns.cc</a><br>
+       ༄  rie / rism + cat-themed prns<br>
+       <a href="https://pronouns.cc/@zep">pronouns.cc</a><br>
 <br>
-༄  my loves 〜<br>
-<a href="https://github.com/curiouslatte">affy</a> ᰔᩚ & mikey ᰔᩚ<br>
-༄  qpps 〜<br>
-<a href="https://github.com/odyssial">yin</a> ₊˚⊹ & <a href="https://github.com/dallasriot">joop</a> ₊˚⊹
+༄  my loves 〜 <a href="https://github.com/curiouslatte">affy</a> ᰔᩚ & mikey ᰔᩚ<br>
+༄  qpps 〜 <a href="https://github.com/odyssial">yin</a> ₊˚⊹ & <a href="https://github.com/dallasriot">joop</a> ₊˚⊹
       </td>
       <td>
        <img align="center" width="200px" salt="image" src="https://file.garden/ahMHvma4rlrxNi-s/New%20Project%20(1).png">
